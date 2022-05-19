@@ -1,7 +1,5 @@
 ---
-title: "Comp Science AP Final Website"
+title: "Welcome to my blog"
 ---
 
-Name : Nicholas Tsoukalas
-Social Media : @thisIsARealAccount
-Brag Sheet:
+I'm glad you are here. I plan to talk about ...
